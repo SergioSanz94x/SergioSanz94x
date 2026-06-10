@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I have completed a full-stack developer training at 4Geeks Academy. 📈
+- 🏫: I have completed a AI full-stack developer training at 4Geeks Academy. 📈
 - 🤖: I have completed an RPA Developer course (+200h) using Power Automate and n8n. ⚙️
 - 🔭: I'm currently working on projects with Python.
 - 🌱: Currently learning new skills (Next.js, TypeScript, Java). 🧠💻
