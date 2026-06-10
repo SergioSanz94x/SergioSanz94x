@@ -7,7 +7,8 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I have completed a full-stack developer training at 4Geeks Academy. 📈
-- 🔭: I'm currently working on small projects with Python.
+- 🤖: I have completed an RPA Developer course (+200h) using Power Automate and n8n. ⚙️
+- 🔭: I'm currently working on projects with Python.
 - 🌱: Currently learning new skills (Next.js, TypeScript, Java). 🧠💻
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play Poker, Soccer and the Piano! ♠️⚽🎹
@@ -34,7 +35,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1>Some of my public Projects! 🎨</h1>
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioSanz94x&repo=Knect)](https://github.com/SergioSanz94x/Knect)
