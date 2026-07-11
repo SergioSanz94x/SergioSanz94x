@@ -38,7 +38,7 @@
 <h1>Some of my public Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioSanz94x&repo=Knect)](https://github.com/SergioSanz94x/Knect)
+[![Knect-an event platform!](https://github-readme-stats.vercel.app/api/pin/?username=SergioSanz94x&repo=Knect)](https://github.com/SergioSanz94x/Knect)
 
 <Br>
 <hr>
