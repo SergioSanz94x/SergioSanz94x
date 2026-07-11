@@ -40,6 +40,8 @@
   
 [![Knect-an event platform!](https://github-readme-stats.vercel.app/api/pin/?username=SergioSanz94x&repo=Knect)](https://github.com/SergioSanz94x/Knect)
 
+[![Investbot!]([https://github.com/SergioSanz94x/Knect](https://github.com/SergioSanz94x/Investbot))
+
 <Br>
 <hr>
 <Br>
